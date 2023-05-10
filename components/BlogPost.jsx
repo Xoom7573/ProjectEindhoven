@@ -1,8 +1,6 @@
 import React from "react";
 import Image from "next/image";
 
-import sfeer from "../assets/sfeer.jpg";
-
 function BlogPost({ post }) {
   return (
     <div className="mt-20 mb-20">
@@ -11,7 +9,9 @@ function BlogPost({ post }) {
 
       <Image
         className="rounded-lg mb-6 h-[30rem] w-full object-cover"
-        src={sfeer}
+        src={post?.image}
+        width={1920}
+        height={1080}
         alt="sfeer foto"
         objectFit="cover"
         title="sfeer foto"
