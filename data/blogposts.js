@@ -53,13 +53,29 @@ const posts = [
     title: "Thursday",
     date: "May 11 2023",
     image: "/assets/racing.jpg",
-    alineas: ["lorem ipsum", "lorem ipsum"]
+    alineas: [
+      "Day 4 of our international project week in Eindhoven was a busy one. We had been working hard on our projects for the past few days and it was time to finalize and test them before presenting to the jury.",
+      "In the morning, we focused on putting the final touches on our projects and conducted thorough testing of our applications. It was a critical step to ensure that our projects were functioning correctly and met our client's requirements.",
+      "At 11 am, we had our final wrap-up presentation. We presented our projects to our fellow participants and received valuable feedback from them. It was an opportunity to showcase our projects and get a sense of what others had been working on.",
+      "After the presentation, we took a much-needed lunch break to refuel and recharge. We enjoyed a variety of delicious sandwiches and discussed our projects with our teams.",
+      "In the afternoon, we had the chance to explore the city of Eindhoven with a guided tour. We learned about the city's history, culture, and architecture. We also had the opportunity to see some of Eindhoven's famous landmarks and museums, such as the Van Abbemuseum, the Philips Museum, and the Strijp-S area.",
+      "The tour was a great way to take a break from our projects, learn more about the city we were in, and bond with our fellow participants.",
+      "Overall, day 4 was a great mix of work and play. We were able to finalize our projects, receive feedback, and explore the beautiful city of Eindhoven. It was a day to remember and a great way to cap off an unforgettable week."
+    ]
   },
   {
     title: "Friday",
     date: "May 12 2023",
     image: "/assets/sfeer.jpg",
-    alineas: ["lorem ipsum", "lorem ipsum"]
+    alineas: [
+      "Day 5 of our international project week in Eindhoven was bittersweet. We had spent the past few days working hard on our projects, collaborating with our teams, and learning from experts in various fields. But it was also the day we had to say goodbye to our new friends and colleagues.",
+      "We started the day with our usual daily start at 9 am, but this time it was focused on finalizing our projects and preparing for our group presentations to the jury.",
+      "At 10:30, it was time for us to present our projects to the jury. We were all nervous but excited to share our ideas with them. Each group presented their project, showcasing their unique selling point and how they had addressed their users' needs. It was impressive to see how much progress we had made in just a few short days.",
+      "After the presentations, we had a well-deserved lunch break to relax and enjoy some food together. It was a great opportunity to debrief with our teams and reflect on the past week's experiences.",
+      "At 1 pm, we gathered for the award ceremony and received our certificates. It was a proud moment for all of us to see our hard work pay off and be recognized by the experts and our peers.",
+      "The day ended with closing remarks and goodbyes. It was a bit sad to say goodbye to our new friends and colleagues, but we were grateful for the opportunity to have worked together and learned from each other. We left Eindhoven with new skills, experiences, and memories that we will cherish forever.",
+      "Overall, the international project week in Eindhoven was a fantastic experience that pushed us out of our comfort zones and allowed us to grow both personally and professionally. We were grateful for the opportunity to participate and are excited to see where our newfound knowledge and skills will take us in the future."
+    ]
   }
 ];
 
