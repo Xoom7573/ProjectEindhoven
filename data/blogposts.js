@@ -2,7 +2,7 @@ const posts = [
   {
     title: "Sunday - Arrival",
     date: "May 7 2023",
-    image: "/assets/welcome.jpg",
+    image: "/assets/reception.jpg",
     alineas: [
       "As part of an exciting international school project, we arrived on Sunday evening at around 8 pm. We were excited about the adventure to come. After checking into the Blue Collar Hotel and unpacking our baggage, we had the chance of meeting our other project members. It was a nice experience to learn more about their backgrounds and cultures. We talked a lot about how our countries and mentalities differ.",
       "We wanted to explore Eindhoven, so we decided to take a walk to the city center. It was a 30-minute walk, but there were lots of nice sightings along the way. As we reached the city, we decided to visit a local bar and grab some drinks.",
